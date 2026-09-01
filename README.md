@@ -35,55 +35,12 @@
 <!-- 01 — MANIFESTO -->
 ### 01 — MANIFESTO
 
-<table width="100%" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="56%" valign="top">
-
 ### **Architecting systems where native performance meets mathematical rigor.**
 
-I build streaming engines that beat RPC, scoring pipelines with zero lookahead bias, and state layers that survive chain reorgs. Rust for throughput, TypeScript for orchestration, Python for validation — all measured against chronological, not shuffled, truth.
+I build streaming engines thats faster than RPCs, scoring pipelines with zero lookahead bias, and state layers that survive chain reorgs. I use Rust for throughput, TypeScript for orchestration, and Python for validation.
 
-- <img src="https://img.shields.io/badge/SUB--RPC%20INGESTION-E30613?style=flat-square" alt="Sub-RPC" /> **Custom Geyser Plugin** with zero-copy binary decode  
-- <img src="https://img.shields.io/badge/ZERO%20LOOKAHEAD-10B981?style=flat-square" alt="Zero Lookahead" /> **16-Signal Modular Engine**, 140+ externalized params, 0 hardcoded values  
-- <img src="https://img.shields.io/badge/QUANT%20OPTIMIZATION-F59E0B?style=flat-square" alt="Quant" /> **LSTM + PPO Pipeline** with 9,216-combo grid search on chronological splits  
-
-<br/>
-
-<sub>
-  <a href="https://linkedin.com/in/pratham-pai-47ba81375"><b>↗ LINKEDIN</b></a> &nbsp;&nbsp; 
-  <a href="mailto:prathamgpai@gmail.com"><b>↗ EMAIL</b></a> &nbsp;&nbsp; 
-  <a href="https://github.com/prathampai-college"><b>↗ GITHUB</b></a> &nbsp;&nbsp; 
-  <a href="https://github.com/PrathamPai-2007"><b>↗ ARCHIVE</b></a>
-</sub>
-
-</td>
-    <td width="44%" valign="top">
-
-| FACT FILE — PRATHAM PAI | <img src="https://img.shields.io/badge/LIVE-10B981?style=flat-square" alt="Live" /> |
-| :--- | ---: |
-| **NAME** | **Pratham Pai** |
-| **INSTITUTION** | **IIIT Sri City** |
-| **DEGREE** | **B.Tech CSE ’25–’29** |
-| **CGPA** | **8.1 / 10.0** |
-| **FOCUS** | **Systems / Quant ML / Streaming** |
-
-```rust
-struct Engineer {
-  name: "Pratham Pai",
-  focus: [
-    "Rust ↔ Node FFI (napi-rs)",
-    "LSTM + PPO, walk-forward",
-    "Geyser · WAL · WebSockets",
-    "Next.js 15 · Tailwind v4",
-  ],
-}
-```
-
-</td>
-  </tr>
-</table>
-
-<sub>**ASK ME ABOUT** — Concurrency patterns &#183; Rust &#8596; Node FFI &#183; Walk-Forward validation &#183; WebSocket feeds &#183; SQLite WAL internals</sub>
+- SUB-RPC SPEED: **Custom Geyser Plugin** with zero-copy binary decode
+- QUANT OPTIMIZATION: **LSTM + PPO Pipeline** with 9,216-combo grid search on chronological splits  
 
 <hr/>
 
@@ -101,7 +58,6 @@ struct Engineer {
 <br/>
 
 <div align="center">
-  <sub><em>— Raw concrete, no gloss. One accent, zero gradients. —</em></sub><br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,python,bun,nextjs,tailwind,supabase,githubactions,solidity,pytorch,sqlite,linux&theme=dark&perline=12" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,ts,python,bun,nextjs,tailwind,supabase,githubactions,solidity,pytorch,sqlite,linux&theme=light&perline=12" />
@@ -159,40 +115,6 @@ struct Engineer {
 
 <hr/>
 
-<!-- 04 — TELEMETRY -->
-### 04 — TELEMETRY
-
-<div align="center">
-
-<table border="0" cellpadding="8" cellspacing="0">
-  <tr>
-    <td align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=prathampai-college&show_icons=true&bg_color=0D1117&title_color=E30613&text_color=F0F6FC&icon_color=E30613&border_color=30363D&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=3600" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=prathampai-college&show_icons=true&bg_color=FFFCF8&title_color=E30613&text_color=0A0A0A&icon_color=E30613&border_color=E7E5E4&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=3600" />
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=prathampai-college&show_icons=true&bg_color=0D1117&title_color=E30613&text_color=F0F6FC&icon_color=E30613&border_color=30363D&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats" width="440" />
-      </picture>
-    </td>
-    <td align="center" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathampai-college&layout=compact&bg_color=0D1117&title_color=E30613&text_color=F0F6FC&border_color=30363D&hide_border=false&cache_seconds=3600" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathampai-college&layout=compact&bg_color=FFFCF8&title_color=E30613&text_color=0A0A0A&border_color=E7E5E4&hide_border=false&cache_seconds=3600" />
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathampai-college&layout=compact&bg_color=0D1117&title_color=E30613&text_color=F0F6FC&border_color=30363D&hide_border=false&cache_seconds=3600" alt="Top Languages" width="370" />
-      </picture>
-    </td>
-  </tr>
-</table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=prathampai-college&background=0D1117&border=30363D&stroke=30363D&ring=E30613&fire=E30613&currStreakLabel=E30613&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&card_width=820" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=prathampai-college&background=FFFCF8&border=E7E5E4&stroke=E7E5E4&ring=E30613&fire=E30613&currStreakLabel=E30613&sideLabels=52525B&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=52525B&card_width=820" />
-  <img src="https://streak-stats.demolab.com?user=prathampai-college&background=0D1117&border=30363D&stroke=30363D&ring=E30613&fire=E30613&currStreakLabel=E30613&sideLabels=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E&card_width=820" alt="GitHub Streak" width="820" />
-</picture>
-
-</div>
-
-<hr/>
-
 <!-- 05 — FIGURE -->
 ### 05 — FIGURE 01 / CONTRIBUTION MATRIX
 
@@ -210,26 +132,7 @@ struct Engineer {
 
 <hr/>
 
-<!-- COLOPHON -->
-<div align="left">
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-  <tr>
-    <td align="left">
-      <sub><b>COLOPHON</b> &#183; SET IN IBM PLEX MONO &#183; PAPER #FFFCF8 &#183; INK #0A0A0A &#183; SIGNAL #E30613 &#183; EDITORIAL BRUTALISM &#183; 2026</sub>
-    </td>
-    <td align="right">
-      <sub>
-        <a href="https://linkedin.com/in/pratham-pai-47ba81375">LINKEDIN</a> &nbsp;·&nbsp;
-        <a href="mailto:prathamgpai@gmail.com">EMAIL</a> &nbsp;·&nbsp;
-        <a href="https://github.com/PrathamPai-2007">ARCHIVE</a> &nbsp;·&nbsp;
-        <a href="https://github.com/prathampai-college">SOURCE</a>
-      </sub>
-    </td>
-  </tr>
-</table>
-
-<sub>&#169; 2026 PRATHAM PAI — BUILT FOR CHRONOLOGICAL TRUTH. NO GRADIENTS. NO GLOW. JUST CONCRETE.</sub>
+<sub>&#169; PRATHAM PAI — updated august 2026.</sub>
 
 </div>
 
