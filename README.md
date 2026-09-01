@@ -1,248 +1,279 @@
-<div align="center">
+<!-- BRUTALIST EDITORIAL — PRATHAM PAI — SYSTEMS ENGINEER -->
+<!-- Palette: PAPER #FFFCF8 / INK #0A0A0A / RULE #E7E5E4 / VERMILION #E30613 / SLATE #52525B -->
 
-<!-- HERO BANNER / TYPING HEADER -->
-<a href="https://github.com/prathampai-college">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C77DFF&background=0D111700&center=true&vCenter=true&multiline=false&width=750&height=60&lines=Hey+there%2C+I'm+Pratham+Pai+%F0%9F%91%8B;Systems+Engineer+%E2%80%A2+Rust+%26+TypeScript+%E2%80%A2+Quant+ML;Building+Veloci-Buy%2C+SigForge+%26+Argus+%E2%9A%A1;IIIT+Sri+City+CSE+(2025%E2%80%932029)+%F0%9F%8F%9B%EF%B8%8F" alt="Typing SVG" />
-</a>
+<div align="left">
+
+<!-- MASTHEAD -->
+<pre style="margin:0; line-height:1;"><b>PRATHAM PAI — SYSTEMS ENGINEER</b>  •  IIIT SRI CITY — B.TECH CSE 2025–2029  •  CGPA 8.1
+</pre>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="left" width="60%">
+      <sub>High-Throughput Native Systems — Quantitative ML — Low-Latency Data Engines</sub>
+    </td>
+    <td align="right" width="40%">
+      <sub>
+        <a href="https://linkedin.com/in/pratham-pai-47ba81375">LINKEDIN</a> &nbsp;·&nbsp;
+        <a href="mailto:prathamgpai@gmail.com">EMAIL</a> &nbsp;·&nbsp;
+        <a href="https://github.com/prathampai-college">GITHUB</a> &nbsp;·&nbsp;
+        <a href="https://github.com/PrathamPai-2007">ARCHIVE</a>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E4&height=1&text=&fontSize=1" width="100%" height="1" alt="rule" />
 
 <p align="center">
-  <b>Architecting High-Throughput Native Systems • Quantitative ML Pipelines • Low-Latency Data Engines</b>
+  <a href="https://github.com/prathampai-college">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=400&size=15&duration=3200&pause=900&color=E30613&background=FFFCF800&center=true&vCenter=true&width=780&height=32&lines=Rust+%E2%86%94+Node+FFI+·+LSTM+%2B+PPO+·+Geyser+Sub-RPC;Walk-Forward+·+Zero+Lookahead+·+Reorg-Safe;High-Throughput+·+Quant+ML+·+Low-Latency" alt="Typing — core focus" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/pratham-pai-47ba81375"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:prathamgpai@gmail.com"><img src="https://img.shields.io/badge/Email-prathamgpai%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/prathampai-college"><img src="https://img.shields.io/badge/GitHub-prathampai--college-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=prathampai-college&style=for-the-badge&color=7928ca&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E4&height=1&text=&fontSize=1" width="100%" height="1" alt="rule" />
 
 </div>
 
-## 🔮 About Me
+<!-- 01 — MANIFESTO -->
+### 01 — MANIFESTO
+
+<table border="1" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <!-- Left: narrative -->
+    <td width="58%" valign="top" style="padding:22px 22px 18px 22px;">
+
+**Architecting systems where native performance meets mathematical rigor.**
+
+I build streaming engines that beat RPC, scoring pipelines with zero lookahead bias, and state layers that survive chain reorgs. Rust for throughput, TypeScript for orchestration, Python for validation — all measured against chronological, not shuffled, truth.
+
+<sub>
+
+— Sub-RPC Geyser ingestion with zero-copy decode  
+— 16-signal modular scoring, 140 params, 0 hardcoded values  
+— LSTM+PPO with 9,216-combo grid search on time-series splits
+
+</sub>
+
+<br/>
+
+<sub>
+<a href="https://linkedin.com/in/pratham-pai-47ba81375">↗ LINKEDIN</a> &nbsp;&nbsp; <a href="mailto:prathamgpai@gmail.com">↗ EMAIL</a> &nbsp;&nbsp; <a href="https://github.com/PrathamPai-2007">↗ GITHUB ARCHIVE</a>
+</sub>
+
+</td>
+    <!-- Right: fact file -->
+    <td width="42%" valign="top" style="padding:0; background-color:#FFFCF8;">
+
+<table width="100%" cellpadding="10" cellspacing="0" border="0">
+  <tr><td colspan="2" style="padding:12px 16px; border-bottom:1px solid #E7E5E4;"><sub><b>FACT FILE — PRATHAM PAI</b></sub> <span style="color:#E30613;">●</span></td></tr>
+  <tr><td style="padding:6px 16px;"><sub>NAME</sub></td><td align="right" style="padding:6px 16px;"><sub><b>Pratham Pai</b></sub></td></tr>
+  <tr><td style="padding:6px 16px;"><sub>INSTITUTION</sub></td><td align="right" style="padding:6px 16px;"><sub>IIIT Sri City</sub></td></tr>
+  <tr><td style="padding:6px 16px;"><sub>DEGREE</sub></td><td align="right" style="padding:6px 16px;"><sub>B.Tech CSE ’25–’29</sub></td></tr>
+  <tr><td style="padding:6px 16px;"><sub>CGPA</sub></td><td align="right" style="padding:6px 16px;"><sub><b>8.1 / 10.0</b></sub></td></tr>
+  <tr><td style="padding:6px 16px;"><sub>FOCUS</sub></td><td align="right" style="padding:6px 16px;"><sub><b>Systems / Quant ML / Streaming</b></sub></td></tr>
+  <tr><td colspan="2" style="padding:10px 16px; border-top:1px solid #E7E5E4;">
 
 ```rust
 struct Engineer {
-    name: &'static str,
-    institution: &'static str,
-    degree: &'static str,
-    cgpa: f32,
-    core_focus: [&'static str; 4],
-}
-
-impl Engineer {
-    fn new() -> Self {
-        Self {
-            name: "Pratham Pai",
-            institution: "Indian Institute of Information Technology, Sri City",
-            degree: "B.Tech in Computer Science and Engineering (2025 – 2029)",
-            cgpa: 8.1,
-            core_focus: [
-                "High-Throughput Native Systems (Rust <-> Node FFI via napi-rs)",
-                "Quantitative Backtesting & ML (LSTM, PPO, Time-Series Splits)",
-                "Real-Time Event Ingestion & Reorg-Safe State Layers",
-                "Full-Stack Web3 & AI Engineering (Next.js 15, Gemini)",
-            ],
-        }
-    }
+  name: "Pratham Pai",
+  focus: [
+    "Rust ↔ Node FFI (napi-rs)",
+    "LSTM + PPO, walk-forward",
+    "Geyser · WAL · WebSockets",
+    "Next.js 15 · Tailwind v4",
+  ],
 }
 ```
 
-- 🏛️ **Undergrad**: Computer Science & Engineering @ **IIIT Sri City** (2025 – 2029) • **CGPA: 8.1 / 10.0**
-- ⚡ **Core Philosophy**: Bridging raw native performance (`Rust`, `napi-rs`, `Bun`) with strict mathematical rigor (`LSTM`, `PPO`, zero-lookahead walk-forward validation) and modern reactive web engineering (`Next.js 15`, `Tailwind CSS v4`).
-- 🛠️ **Active R&D**: Building sub-RPC streaming discovery engines with Solana Geyser plugins and modular 16-signal scoring pipelines.
-- 💬 **Ask me about**: Concurrency patterns, Rust $\leftrightarrow$ Node.js FFI interop, walk-forward time-series validation, WebSocket feeds, SQLite WAL internals.
+</td></tr>
+</table>
 
-<br/>
+</td>
+  </tr>
+</table>
 
----
+<sub>ASK ME ABOUT — Concurrency patterns · Rust↔Node FFI · Walk-forward validation · WebSocket feeds · SQLite WAL internals</sub>
 
-## 🛠️ Weapons of Choice & Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E4&height=1&text=&fontSize=1" width="100%" height="1" alt="rule" />
 
-<div align="center">
+<!-- 02 — INDEX -->
+### 02 — INDEX / ARSENAL
 
-### 💻 Core Languages
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white&color=241038" alt="Rust"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=241038" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=241038" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=241038" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&color=241038" alt="Java"/>
-</p>
-
-### ⚡ Systems & High-Throughput Engineering
-<p>
-  <img src="https://img.shields.io/badge/napi--rs-FF4088?style=for-the-badge&logo=rust&logoColor=white&color=3B125C" alt="napi-rs"/>
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white&color=3B125C" alt="Bun"/>
-  <img src="https://img.shields.io/badge/SQLite_WAL-003B57?style=for-the-badge&logo=sqlite&logoColor=white&color=3B125C" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white&color=3B125C" alt="WebSockets"/>
-  <img src="https://img.shields.io/badge/JSON--RPC-7928CA?style=for-the-badge&logo=json&logoColor=white&color=3B125C" alt="JSON-RPC"/>
-  <img src="https://img.shields.io/badge/Solana_Geyser-14F195?style=for-the-badge&logo=solana&logoColor=black&color=3B125C" alt="Solana Geyser"/>
-  <img src="https://img.shields.io/badge/worker__threads-5A189A?style=for-the-badge&logo=nodedotjs&logoColor=white&color=3B125C" alt="worker_threads"/>
-</p>
-
-### 🧠 AI, ML & Quantitative Signal Processing
-<p>
-  <img src="https://img.shields.io/badge/LSTM_Sequence_Models-7B2CBF?style=for-the-badge&logo=tensorflow&logoColor=white&color=4A0E78" alt="LSTM"/>
-  <img src="https://img.shields.io/badge/PPO_Reinforcement_Learning-9D4EDD?style=for-the-badge&logo=openai&logoColor=white&color=4A0E78" alt="PPO"/>
-  <img src="https://img.shields.io/badge/Walk--Forward_Validation-C77DFF?style=for-the-badge&logo=scikitlearn&logoColor=black&color=4A0E78" alt="Walk-Forward"/>
-  <img src="https://img.shields.io/badge/Google_Gemini_API-8E24AA?style=for-the-badge&logo=googlegemini&logoColor=white&color=4A0E78" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Time--Series_Analysis-5A189A?style=for-the-badge&logo=pandas&logoColor=white&color=4A0E78" alt="Time Series"/>
-</p>
-
-### 🌐 Full-Stack & Modern Web
-<p>
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&color=241038" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=241038" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=241038" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&color=241038" alt="Framer Motion"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&color=241038" alt="Supabase"/>
-</p>
-
-### 📦 DevOps, Testing & Tooling
-<p>
-  <img src="https://img.shields.io/badge/GitHub_Actions_CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&color=3B125C" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&color=3B125C" alt="pytest"/>
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white&color=3B125C" alt="Pydantic"/>
-  <img src="https://img.shields.io/badge/Typer-7928CA?style=for-the-badge&logo=python&logoColor=white&color=3B125C" alt="Typer"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=3B125C" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=3B125C" alt="Linux"/>
-</p>
-
-</div>
-
-<br/>
-
----
-
-## 🚀 Flagship Engineering Showcases
-
-<table>
+<table border="1" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Veloci-Buy</h3>
-      <p align="center"><b>High-Performance Solana Discovery & Execution Engine</b></p>
-      <p align="center">
-        <code>Rust</code> • <code>TypeScript</code> • <code>napi-rs</code> • <code>LSTM</code> • <code>PPO</code> • <code>SQLite</code> • <code>Geyser</code>
-      </p>
-      <ul>
-        <li><b>Native Rust ↔ Node.js ML Core:</b> Engineered a zero-overhead FFI core (<code>napi-rs</code>) coupling an LSTM sequence model with a PPO reinforcement learning agent.</li>
-        <li><b>Rigorous Validation:</b> Validated against a <b>9,216-combination</b> hyperparameter grid with chronological train/test splits & label-shuffle sanity checks.</li>
-        <li><b>Sub-RPC Streaming Pipeline:</b> Built custom Solana Geyser plugin in Rust with zero-copy binary decoding delivering raw trade events ahead of standard indexing.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/PrathamPai-2007/veloci-buy"><b>View Veloci-Buy Repo ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📊 SigForge</h3>
-      <p align="center"><b>Modular Signal Scoring & Backtesting Engine</b></p>
-      <p align="center">
-        <code>Python</code> • <code>SQLite</code> • <code>pytest</code> • <code>pydantic</code> • <code>Typer</code> • <code>httpx</code>
-      </p>
-      <ul>
-        <li><b>Zero Lookahead Bias:</b> Architected a timeframe-anchored pipeline enforcing identical execution logic across backtest and live production paths.</li>
-        <li><b>16-Module Scoring Pipeline:</b> Config-driven scoring combining 16 independent signal modules with <b>140+ externalized parameters</b> (0 hardcoded values).</li>
-        <li><b>Stratified Analytics & CLI:</b> 100% <code>pytest</code> coverage with reproducible CLI runs via <code>Typer</code> and strictly validated <code>pydantic</code> schemas.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/PrathamPai-2007/sigforge"><b>View SigForge Repo ➔</b></a>
-      </p>
-    </td>
+    <td style="padding:12px 16px;" width="18%"><sub><b style="color:#E30613;">LANGUAGES</b></sub></td>
+    <td style="padding:12px 16px;"><sub>Rust &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Java</sub></td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ Argus</h3>
-      <p align="center"><b>Real-Time Multi-Chain Intelligence Pipeline</b></p>
-      <p align="center">
-        <code>TypeScript</code> • <code>Bun</code> • <code>SQLite WAL</code> • <code>WebSockets</code> • <code>viem</code> • <code>SSRF Hardened</code>
-      </p>
-      <ul>
-        <li><b>High-Throughput Ingestion:</b> Normalizes multi-chain WebSocket feeds into persisted SQLite facts with automatic RPC failover and dual-RPC 2x catch-up.</li>
-        <li><b>Reorg-Safe State Layer:</b> Rollback-friendly union-find state graph where every mutation records an undo closure for arbitrary block rewinds.</li>
-        <li><b>Hardened Alert Engine:</b> Pure heuristic scoring (0–100 severity) with HMAC-signed webhooks immune to SSRF (redirect/loopback rejection).</li>
-      </ul>
+    <td style="padding:12px 16px;"><sub><b style="color:#E30613;">SYSTEMS</b></sub></td>
+    <td style="padding:12px 16px;"><sub>napi-rs &nbsp;/&nbsp; Bun &nbsp;/&nbsp; SQLite WAL &nbsp;/&nbsp; WebSockets &nbsp;/&nbsp; JSON-RPC &nbsp;/&nbsp; Solana Geyser &nbsp;/&nbsp; worker_threads</sub></td>
+  </tr>
+  <tr>
+    <td style="padding:12px 16px;"><sub><b style="color:#E30613;">QUANT / ML</b></sub></td>
+    <td style="padding:12px 16px;"><sub>LSTM Sequence &nbsp;·&nbsp; PPO Reinforcement &nbsp;·&nbsp; Walk-Forward Validation &nbsp;·&nbsp; Gemini 2.0 &nbsp;·&nbsp; Time-Series Analysis</sub></td>
+  </tr>
+  <tr>
+    <td style="padding:12px 16px;"><sub><b style="color:#E30613;">WEB</b></sub></td>
+    <td style="padding:12px 16px;"><sub>Next.js 15 &nbsp;/&nbsp; React 19 &nbsp;/&nbsp; Tailwind v4 &nbsp;/&nbsp; Framer Motion &nbsp;/&nbsp; Supabase</sub></td>
+  </tr>
+  <tr>
+    <td style="padding:12px 16px;"><sub><b style="color:#E30613;">TOOLING</b></sub></td>
+    <td style="padding:12px 16px;"><sub>Git &nbsp;/&nbsp; Linux &nbsp;/&nbsp; GitHub Actions &nbsp;/&nbsp; pytest &nbsp;/&nbsp; Pydantic &nbsp;/&nbsp; Typer &nbsp;/&nbsp; httpx</sub></td>
+  </tr>
+</table>
+
+<div align="center">
+  <sub style="color:#52525B;">— Raw concrete, no gloss. One accent, zero gradients. —</sub><br/>
+  <img src="https://skillicons.dev/icons?i=rust,ts,python,bun,nextjs,tailwind,supabase,githubactions&theme=light&perline=8" alt="Skill icons — light" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E4&height=1&text=&fontSize=1" width="100%" height="1" alt="rule" />
+
+<!-- 03 — SELECTED WORKS -->
+### 03 — SELECTED WORKS
+
+<table border="1" cellpadding="0" cellspacing="0" width="100%">
+  <!-- Row 1 -->
+  <tr>
+    <!-- 01 Veloci-Buy -->
+    <td width="50%" valign="top" style="padding:20px 18px 16px 18px;">
+      <sub style="color:#E30613;"><b>01</b> — RUST / TYPESCRIPT / GEYSER</sub><br/>
+      <b>VELOCI-BUY</b> <span style="color:#E30613;">—</span> <sub>High-Performance Solana Discovery & Execution Engine</sub>
+      <br/><br/>
+      <sub>
+      — Native <b>Rust ↔ Node FFI</b> via napi-rs: LSTM + PPO core, zero overhead<br/>
+      — <b>9,216-combo</b> hyperparameter grid · chronological splits · label-shuffle sanity<br/>
+      — Custom <b>Geyser plugin</b> (Rust) — zero-copy binary decode, ahead of RPC<br/>
+      </sub>
+      <br/>
+      <sub style="color:#52525B;">STACK — Rust · TypeScript · napi-rs · LSTM · PPO · SQLite · Geyser</sub>
+      <br/><br/>
+      <sub><a href="https://github.com/PrathamPai-2007/veloci-buy"><b>VIEW REPO →</b></a> &nbsp;&nbsp; <span style="color:#E7E5E4;">|</span> &nbsp;&nbsp; <a href="https://github.com/PrathamPai-2007/veloci-buy">PIN →</a></sub>
+      <br/>
+      <a href="https://github.com/PrathamPai-2007/veloci-buy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamPai-2007&repo=veloci-buy&theme=transparent&bg_color=FFFCF800&title_color=0A0A0A&text_color=52525B&icon_color=E30613&border_color=E7E5E4&hide_border=false" alt="Veloci-Buy pin" /></a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📖 Gistory</h3>
-      <p align="center"><b>AI-Powered Repository Evolution & Storyteller</b></p>
-      <p align="center">
-        <code>Next.js 15</code> • <code>Tailwind v4</code> • <code>Framer Motion</code> • <code>Gemini 2.0</code> • <code>GitHub API</code>
-      </p>
-      <ul>
-        <li><b>Development Eras:</b> Full-stack platform segmenting Git commit graphs into distinct developmental epochs using activity-gap heuristics.</li>
-        <li><b>Fault-Tolerant Gemini Narration:</b> Isolated per-request narrative generation gracefully degrading on API threshold limits.</li>
-        <li><b>Interactive Timeline:</b> Built animated SVG sparklines and PNG export engine during an 8-hour hackathon sprint.</li>
-      </ul>
+    <!-- 02 SigForge -->
+    <td width="50%" valign="top" style="padding:20px 18px 16px 18px;">
+      <sub style="color:#E30613;"><b>02</b> — PYTHON / SQLITE / PYTEST</sub><br/>
+      <b>SIGFORGE</b> <span style="color:#E30613;">—</span> <sub>Modular Signal Scoring & Backtesting Engine</sub>
+      <br/><br/>
+      <sub>
+      — <b>Zero lookahead</b> — identical exec in backtest & live, timeframe-anchored<br/>
+      — <b>16 modules</b> · 140+ externalized params · <b>0 hardcoded</b> values<br/>
+      — 100% <b>pytest</b> · Typer CLI · strict Pydantic schemas<br/>
+      </sub>
+      <br/>
+      <sub style="color:#52525B;">STACK — Python · SQLite · pytest · Pydantic · Typer · httpx</sub>
+      <br/><br/>
+      <sub><a href="https://github.com/PrathamPai-2007/sigforge"><b>VIEW REPO →</b></a> &nbsp;&nbsp; <span style="color:#E7E5E4;">|</span> &nbsp;&nbsp; <a href="https://github.com/PrathamPai-2007/sigforge">PIN →</a></sub>
+      <br/>
+      <a href="https://github.com/PrathamPai-2007/sigforge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=PrathamPai-2007&repo=sigforge&theme=transparent&bg_color=FFFCF800&title_color=0A0A0A&text_color=52525B&icon_color=E30613&border_color=E7E5E4&hide_border=false" alt="SigForge pin" /></a>
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <!-- 03 Argus -->
+    <td width="50%" valign="top" style="padding:20px 18px 16px 18px;">
+      <sub style="color:#E30613;"><b>03</b> — TYPESCRIPT / BUN / WAL</sub><br/>
+      <b>ARGUS</b> <span style="color:#E30613;">—</span> <sub>Real-Time Multi-Chain Intelligence Pipeline</sub>
+      <br/><br/>
+      <sub>
+      — Multi-chain <b>WebSocket</b> normalization → SQLite WAL facts<br/>
+      — <b>Reorg-safe</b> union-find graph — every mutation records undo closure<br/>
+      — <b>HMAC-signed</b> webhooks, SSRF-hardened (redirect/loopback rejection)<br/>
+      </sub>
+      <br/>
+      <sub style="color:#52525B;">STACK — TypeScript · Bun · SQLite WAL · WebSockets · viem</sub>
+      <br/><br/>
+      <sub style="color:#52525B;">STATUS — Private pipeline · Docs on request</sub>
+    </td>
+    <!-- 04 Gistory -->
+    <td width="50%" valign="top" style="padding:20px 18px 16px 18px;">
+      <sub style="color:#E30613;"><b>04</b> — NEXT.JS 15 / GEMINI 2.0</sub><br/>
+      <b>GISTORY</b> <span style="color:#E30613;">—</span> <sub>AI-Powered Repository Evolution & Storyteller</sub>
+      <br/><br/>
+      <sub>
+      — Segments commit graph into <b>development eras</b> via gap heuristics<br/>
+      — <b>Fault-tolerant</b> Gemini narration, per-request isolation<br/>
+      — Animated SVG sparklines + PNG export — <b>8-hour hackathon</b> sprint<br/>
+      </sub>
+      <br/>
+      <sub style="color:#52525B;">STACK — Next.js 15 · Tailwind v4 · Framer Motion · Gemini 2.0</sub>
+      <br/><br/>
+      <sub style="color:#52525B;">STATUS — Hackathon build · Demo on request</sub>
     </td>
   </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E4&height=1&text=&fontSize=1" width="100%" height="1" alt="rule" />
 
----
-
-## 📊 Live GitHub Telemetry & Analytics
+<!-- 04 — TELEMETRY -->
+### 04 — TELEMETRY
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="8" cellspacing="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=prathampai-college&show_icons=true&theme=radical&bg_color=0d1117&title_color=c77dff&text_color=e0e0e0&icon_color=9d4edd&border_color=7928ca&hide_border=false&count_private=true" alt="Pratham's GitHub Stats" width="410" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=prathampai-college&show_icons=true&theme=transparent&bg_color=FFFCF800&title_color=E30613&text_color=0A0A0A&icon_color=E30613&border_color=E7E5E4&hide_border=false&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats — brutalist" width="430" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampai-college&layout=compact&theme=radical&bg_color=0d1117&title_color=c77dff&text_color=e0e0e0&border_color=7928ca&hide_border=false" alt="Top Languages" width="370" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampai-college&theme=radical&background=0d1117&border=7928ca&stroke=7928ca&ring=c77dff&fire=9d4edd&currStreakLabel=c77dff&sideLabels=e0e0e0&dates=a0aec0" alt="Streak Stats" width="790" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampai-college&layout=compact&theme=transparent&bg_color=FFFCF800&title_color=E30613&text_color=0A0A0A&border_color=E7E5E4&hide_border=false&cache_seconds=3600" alt="Top Languages — brutalist" width="360" />
     </td>
   </tr>
 </table>
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampai-college&custom_title=ACTIVITY+%E2%80%94+CHRONOLOGICAL+TRUTH&bg_color=FFFCF8&color=52525B&line=E30613&point=0A0A0A&area=false&hide_border=true" alt="Activity Graph — vermilion" width="100%" />
+
+<img src="https://streak-stats.demolab.com?user=prathampai-college&theme=transparent&background=FFFCF800&border=E7E5E4&stroke=E7E5E4&ring=E30613&fire=E30613&currStreakLabel=E30613&sideLabels=52525B&currStreakNum=0A0A0A&sideNums=0A0A0A&dates=9CA3AF&card_width=820" alt="Streak — demolab brutalist" width="820" />
 
 <br/>
 
----
-
-## 🐍 Contribution Graph Matrix
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/prathampai-college/prathampai-college/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=prathampai-college&theme=flat&column=7&title_color=E30613&text_color=52525B&bg_color=FFFCF8&no-bg=false&no-frame=true&margin-w=8&margin-h=8" alt="Trophy wall — flat" width="100%" />
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E4&height=1&text=&fontSize=1" width="100%" height="1" alt="rule" />
 
----
-
-## 📬 Connect & Collaborate
+<!-- 05 — FIGURE -->
+### 05 — FIGURE 01 / CONTRIBUTION MATRIX
 
 <div align="center">
+  <sub style="color:#52525B;">RAW CONTRIBUTION GRID — PAPER DOTS · VERMILION TRACE · INK FIELD</sub>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathampai-college/prathampai-college/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathampai-college/prathampai-college/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/prathampai-college/prathampai-college/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake — brutalist" width="100%" style="max-width:780px;" />
+  </picture>
+  <br/>
+  <sub style="color:#9CA3AF;">FIG. 01 — Generated via <code>Platane/snk</code> · palette: <code>#E30613</code> trace on <code>#FFFCF8</code> paper</sub>
+</div>
 
-  <a href="https://linkedin.com/in/pratham-pai-47ba81375">
-    <img src="https://img.shields.io/badge/LinkedIn-Pratham_Pai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=161b22" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:prathamgpai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-prathamgpai%40gmail.com-7928CA?style=for-the-badge&logo=gmail&logoColor=white&color=161b22" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/PrathamPai-2007">
-    <img src="https://img.shields.io/badge/GitHub-PrathamPai--2007-181717?style=for-the-badge&logo=github&logoColor=white&color=161b22" alt="GitHub Resume Handle"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/prathampai-college">
-    <img src="https://img.shields.io/badge/GitHub-prathampai--college-7928CA?style=for-the-badge&logo=github&logoColor=white&color=161b22" alt="GitHub Current"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=E7E5E4&height=1&text=&fontSize=1" width="100%" height="1" alt="rule" />
 
-<br/><br/>
+<!-- COLOPHON -->
+<div align="left">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=100&section=footer" width="100%" />
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+    <td align="left">
+      <sub><b>COLOPHON</b> — SET IN IBM PLEX MONO — PAPER #FFFCF8 · INK #0A0A0A · SIGNAL #E30613 — EDITORIAL BRUTALISM — 2026</sub>
+    </td>
+    <td align="right">
+      <sub>
+        <a href="https://linkedin.com/in/pratham-pai-47ba81375">LINKEDIN</a> &nbsp;·&nbsp;
+        <a href="mailto:prathamgpai@gmail.com">EMAIL</a> &nbsp;·&nbsp;
+        <a href="https://github.com/PrathamPai-2007">ARCHIVE</a> &nbsp;·&nbsp;
+        <a href="https://github.com/prathampai-college">SOURCE</a>
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<sub style="color:#9CA3AF;">© 2026 PRATHAM PAI — BUILT FOR CHRONOLOGICAL TRUTH. NO GRADIENTS. NO GLOW. JUST CONCRETE.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=6&text=&fontSize=1" width="100%" height="6" alt="ink rule" />
