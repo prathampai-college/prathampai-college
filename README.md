@@ -1,21 +1,21 @@
-<!-- BRUTALIST EDITORIAL — PRATHAM PAI — SYSTEMS ENGINEER -->
-<!-- Palette: PAPER #FFFCF8 / INK #0A0A0A / VERMILION #E30613 / EMERALD #10B981 / AMBER #F59E0B / SLATE #52525B -->
-
 <div align="center">
 
-<!-- HERO MASTHEAD (SELF-HOSTED VECTOR ASSET) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-  <img src="./assets/hero-dark.svg" alt="Pratham Pai — Systems Engineer" width="100%" />
-</picture>
+# `PRATHAM PAI`
+### **SYSTEMS ENGINEER**
 
+`SYSTEMS PROGRAMMING` &bull; `QUANT SYSTEMS` &bull; `HIGH-THROUGHPUT APPS`
+
+<br/>
+
+**IIIT Sri City** &nbsp;|&nbsp; **B.Tech CSE (2025–2029)** &nbsp;|&nbsp; **CGPA: 8.1**
+
+<br/>
 <br/>
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td align="left" width="50%">
-      <sub><b>PRATHAM PAI</b> &nbsp;&#183;&nbsp; HIGH-THROUGHPUT NATIVE SYSTEMS &nbsp;&#183;&nbsp; QUANTITATIVE ML</sub>
+      <sub><b>CONTACT ME</b></sub>
     </td>
     <td align="right" width="50%">
       <sub>
@@ -56,14 +56,6 @@ I build streaming engines thats faster than RPCs, scoring pipelines with zero lo
 | **DEV &amp; INFRASTRUCTURE** | <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a> <a href="https://kernel.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></a> <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /></a> <a href="https://docs.pytest.org"><img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" /></a> <a href="https://docs.pydantic.dev"><img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" /></a> <img src="https://img.shields.io/badge/HTTPX-059669?style=flat-square" alt="HTTPX" /> |
 
 <br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,ts,python,bun,nextjs,tailwind,supabase,githubactions,solidity,pytorch,sqlite,linux&theme=dark&perline=12" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,ts,python,bun,nextjs,tailwind,supabase,githubactions,solidity,pytorch,sqlite,linux&theme=light&perline=12" />
-    <img src="https://skillicons.dev/icons?i=rust,ts,python,bun,nextjs,tailwind,supabase,githubactions,solidity,pytorch,sqlite,linux&theme=dark&perline=12" alt="Skill icons" />
-  </picture>
-</div>
 
 <hr/>
 
@@ -115,11 +107,10 @@ I build streaming engines thats faster than RPCs, scoring pipelines with zero lo
 
 <hr/>
 
-<!-- 05 — FIGURE -->
-### 05 — FIGURE 01 / CONTRIBUTION MATRIX
+### 04 — CONTRIBUTION MATRIX
 
 <div align="center">
-  <sub>RAW CONTRIBUTION GRID — PAPER DOTS &#183; VERMILION TRACE &#183; INK FIELD</sub>
+  <sub>CONTRIBUTION GRID GAME</sub>
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
@@ -127,13 +118,7 @@ I build streaming engines thats faster than RPCs, scoring pipelines with zero lo
     <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake — brutalist" width="100%" />
   </picture>
   <br/>
-  <sub>FIG. 01 — Generated via <code>Platane/snk</code> &#183; palette: <code>#E30613</code> trace on concrete</sub>
 </div>
-
-<hr/>
-
-<sub>&#169; PRATHAM PAI — updated august 2026.</sub>
-
 </div>
 
 <hr/>
