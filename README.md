@@ -200,9 +200,9 @@ struct Engineer {
   <sub>RAW CONTRIBUTION GRID — PAPER DOTS &#183; VERMILION TRACE &#183; INK FIELD</sub>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathampai-college/prathampai-college/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathampai-college/prathampai-college/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/prathampai-college/prathampai-college/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake — brutalist" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+    <img src="./assets/github-contribution-grid-snake-dark.svg" alt="Contribution Snake — brutalist" width="100%" />
   </picture>
   <br/>
   <sub>FIG. 01 — Generated via <code>Platane/snk</code> &#183; palette: <code>#E30613</code> trace on concrete</sub>
