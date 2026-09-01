@@ -1,6 +1,6 @@
 <div align="center">
 
-# `PRATHAM PAI`
+# PRATHAM PAI
 ### **SYSTEMS ENGINEER**
 
 `SYSTEMS PROGRAMMING` &bull; `QUANT SYSTEMS` &bull; `HIGH-THROUGHPUT APPS`
@@ -9,15 +9,13 @@
 
 **IIIT Sri City** &nbsp;|&nbsp; **B.Tech CSE (2025–2029)** &nbsp;|&nbsp; **CGPA: 8.1**
 
-<br/>
-<br/>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table>
   <tr>
-    <td align="left" width="50%">
+    <td align="left">
       <sub><b>CONTACT ME</b></sub>
     </td>
-    <td align="right" width="50%">
+    <td align="right">
       <sub>
         <a href="https://linkedin.com/in/pratham-pai-47ba81375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> &nbsp;
         <a href="mailto:prathamgpai@gmail.com"><img src="https://img.shields.io/badge/Email-E30613?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a> &nbsp;
@@ -33,19 +31,13 @@
 <hr/>
 
 <!-- 01 — MANIFESTO -->
-### 01 — MANIFESTO
+### About Me
 
-### **Architecting systems where native performance meets mathematical rigor.**
-
-I build streaming engines thats faster than RPCs, scoring pipelines with zero lookahead bias, and state layers that survive chain reorgs. I use Rust for throughput, TypeScript for orchestration, and Python for validation.
-
-- SUB-RPC SPEED: **Custom Geyser Plugin** with zero-copy binary decode
-- QUANT OPTIMIZATION: **LSTM + PPO Pipeline** with 9,216-combo grid search on chronological splits  
-
+Hello! I'm Pratham Pai. I was born in Belgaum, Karnataka. When I think of something, I immediately start building something roughly, and based on how much i like it, the project keeps getting built. I'm a 'learn while building' kind of guy. I prefer to use Rust for throughput, TypeScript for main orchestrations, and Python for testing/validation/prototyping.
 <hr/>
 
 <!-- 02 — INDEX / ARSENAL -->
-### 02 — INDEX / ARSENAL
+### What do I know? (vaguely) 
 
 | CATEGORY | STACK &amp; TECHNOLOGIES |
 | :--- | :--- |
@@ -60,7 +52,7 @@ I build streaming engines thats faster than RPCs, scoring pipelines with zero lo
 <hr/>
 
 <!-- 03 — SELECTED WORKS -->
-### 03 — SELECTED WORKS
+### My Best Works!
 
 <table width="100%" cellpadding="8" cellspacing="0" border="0">
   <tr>
