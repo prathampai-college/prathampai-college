@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="240">
+  <defs>
+    <style>
+      .mono { font-family: 'IBM Plex Mono', 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .title { font-weight: 900; font-size: 36px; letter-spacing: 2.5px; fill: #FFFFFF; }
+      .eyebrow { font-weight: 700; font-size: 11px; letter-spacing: 3px; fill: #FF2A37; }
+      .sub { font-weight: 500; font-size: 13px; fill: #9CA3AF; letter-spacing: 1px; }
+      .tag-text { font-weight: 700; font-size: 10.5px; letter-spacing: 0.8px; }
+      .stat-label { font-weight: 700; font-size: 9.5px; fill: #6B7280; letter-spacing: 1.8px; }
+      .stat-val { font-weight: 700; font-size: 11.5px; fill: #F3F4F6; letter-spacing: 0.5px; }
+    </style>
+    <pattern id="grid-dark" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1F2937" stroke-width="0.7" opacity="0.6" />
+    </pattern>
+    <linearGradient id="vermilion-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E30613" />
+      <stop offset="50%" stop-color="#FF2A37" />
+      <stop offset="100%" stop-color="#E30613" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="900" height="240" fill="#0D1117" rx="8" stroke="#30363D" stroke-width="1.5" />
+  <rect width="900" height="240" fill="url(#grid-dark)" rx="8" />
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="900" height="4" fill="url(#vermilion-grad)" rx="0" />
+
+  <!-- Left Accent Marker -->
+  <rect x="28" y="30" width="4" height="52" fill="#E30613" rx="1" />
+
+  <!-- Eyebrow & Status Indicator -->
+  <text x="42" y="44" class="mono eyebrow">SYSTEMS ARCHITECTURE &#183; QUANTITATIVE ML &#183; HIGH-THROUGHPUT</text>
+  <circle cx="835" cy="40" r="4.5" fill="#10B981" />
+  <text x="846" y="44" class="mono" font-size="10.5" font-weight="700" fill="#10B981" letter-spacing="1.5">LIVE</text>
+
+  <!-- Main Title -->
+  <text x="42" y="80" class="sans title">PRATHAM PAI</text>
+  <text x="320" y="78" class="mono sub">// SYSTEMS ENGINEER</text>
+
+  <!-- Degree & Coordinates -->
+  <text x="42" y="110" class="mono sub">IIIT SRI CITY &#183; B.TECH CSE 2025–2029 &#183; CGPA 8.1 / 10.0</text>
+
+  <!-- Technical Domain Pills -->
+  <!-- Tag 1: Rust FFI -->
+  <rect x="42" y="128" width="180" height="28" rx="4" fill="#1C1917" stroke="#E30613" stroke-width="1.2" />
+  <circle cx="56" cy="142" r="3.5" fill="#E30613" />
+  <text x="68" y="146" class="mono tag-text" fill="#FCA5A5">RUST &#8596; NODE FFI</text>
+
+  <!-- Tag 2: LSTM PPO -->
+  <rect x="232" y="128" width="170" height="28" rx="4" fill="#1C1917" stroke="#F59E0B" stroke-width="1.2" />
+  <circle cx="246" cy="142" r="3.5" fill="#F59E0B" />
+  <text x="258" y="146" class="mono tag-text" fill="#FDE68A">LSTM + PPO QUANT</text>
+
+  <!-- Tag 3: Geyser -->
+  <rect x="412" y="128" width="190" height="28" rx="4" fill="#1C1917" stroke="#10B981" stroke-width="1.2" />
+  <circle cx="426" cy="142" r="3.5" fill="#10B981" />
+  <text x="438" y="146" class="mono tag-text" fill="#A7F3D0">SOLANA GEYSER SUB-RPC</text>
+
+  <!-- Tag 4: SQLite WAL -->
+  <rect x="612" y="128" width="170" height="28" rx="4" fill="#1C1917" stroke="#38BDF8" stroke-width="1.2" />
+  <circle cx="626" cy="142" r="3.5" fill="#38BDF8" />
+  <text x="638" y="146" class="mono tag-text" fill="#BAE6FD">SQLITE WAL FACT LOG</text>
+
+  <!-- Bottom Divider Line -->
+  <line x1="28" y1="176" x2="872" y2="176" stroke="#21262D" stroke-width="1" />
+
+  <!-- Bottom Telemetry Specs -->
+  <text x="42" y="202" class="mono stat-label">INGESTION LATENCY</text>
+  <text x="42" y="220" class="mono stat-val">&lt;100&#956;s SUB-RPC</text>
+
+  <text x="250" y="202" class="mono stat-label">VALIDATION DISCIPLINE</text>
+  <text x="250" y="220" class="mono stat-val">ZERO LOOKAHEAD</text>
+
+  <text x="470" y="202" class="mono stat-label">HYPERPARAM SEARCH</text>
+  <text x="470" y="220" class="mono stat-val">9,216-COMBO GRID</text>
+
+  <text x="690" y="202" class="mono stat-label">STATE PERSISTENCE</text>
+  <text x="690" y="220" class="mono stat-val">REORG-SAFE UNDO</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 190" width="100%" height="190">
+  <defs>
+    <style>
+      .mono { font-family: 'IBM Plex Mono', 'JetBrains Mono', 'Fira Code', monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .tag { font-weight: 700; font-size: 10px; fill: #FF2A37; letter-spacing: 1.5px; }
+      .title { font-weight: 800; font-size: 18px; fill: #FFFFFF; letter-spacing: 1px; }
+      .desc { font-size: 11px; fill: #9CA3AF; line-height: 1.4; }
+      .badge-text { font-size: 9.5px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="430" height="190" fill="#0D1117" rx="6" stroke="#30363D" stroke-width="1.2" />
+  <rect x="0" y="0" width="430" height="3" fill="#E30613" rx="0" />
+
+  <!-- Top Category Tag -->
+  <text x="20" y="26" class="mono tag">01 // RUST &#183; TYPESCRIPT &#183; GEYSER</text>
+
+  <!-- Title -->
+  <text x="20" y="52" class="sans title">VELOCI-BUY</text>
+  <text x="145" y="51" class="mono" font-size="11" fill="#6B7280">// SOLANA DISCOVERY ENGINE</text>
+
+  <!-- Feature bullets -->
+  <text x="20" y="76" class="sans desc">&#8226; Native Rust &#8596; Node FFI via napi-rs: LSTM+PPO core, zero overhead</text>
+  <text x="20" y="96" class="sans desc">&#8226; 9,216-combo hyperparameter grid &#183; chronological time-splits</text>
+  <text x="20" y="116" class="sans desc">&#8226; Custom Geyser plugin (Rust) &#183; zero-copy binary decode ahead of RPC</text>
+
+  <!-- Tech Pills -->
+  <rect x="20" y="136" width="68" height="22" rx="3" fill="#1F2937" stroke="#E30613" stroke-width="1" />
+  <text x="27" y="151" class="mono badge-text" fill="#FCA5A5">Rust FFI</text>
+
+  <rect x="94" y="136" width="76" height="22" rx="3" fill="#1F2937" stroke="#F59E0B" stroke-width="1" />
+  <text x="101" y="151" class="mono badge-text" fill="#FDE68A">LSTM+PPO</text>
+
+  <rect x="176" y="136" width="88" height="22" rx="3" fill="#1F2937" stroke="#10B981" stroke-width="1" />
+  <text x="183" y="151" class="mono badge-text" fill="#A7F3D0">Geyser Plugin</text>
+
+  <rect x="270" y="136" width="70" height="22" rx="3" fill="#1F2937" stroke="#38BDF8" stroke-width="1" />
+  <text x="277" y="151" class="mono badge-text" fill="#BAE6FD">SQLite WAL</text>
+
+  <!-- Action Footer -->
+  <text x="20" y="176" class="mono" font-size="10.5" font-weight="700" fill="#FF2A37">VIEW ON GITHUB &#8599;</text>
+</svg>
